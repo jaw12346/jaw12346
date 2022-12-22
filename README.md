@@ -1,7 +1,7 @@
 Hi 👋 My name is Jacob Weber
 ============================
 
-Junior in Computer Science @ RPI ('24)
+Senior in Computer Science @ RPI ('24)
 --------------------------------------
 
 * 🌍  I'm based in Troy, NY
@@ -29,7 +29,3 @@ Junior in Computer Science @ RPI ('24)
 <a href="http://www.github.com/jaw12346"><img src="https://activity-graph.herokuapp.com/graph?username=jaw12346&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/jaw12346" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaw12346&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/jaw12346/Greens-Hourly-Wage-Tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jaw12346&repo=Greens-Hourly-Wage-Tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
