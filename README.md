@@ -1,10 +1,10 @@
 Hi 👋 My name is Jacob Weber
 ============================
 
-Senior in Computer Science @ RPI ('24)
+Master's student in Computer Science @ George Washington University
 --------------------------------------
 
-* 🌍  I'm based in Troy, NY
+* 🌍  I'm based in Washington, DC
 
 ### Skills
 
